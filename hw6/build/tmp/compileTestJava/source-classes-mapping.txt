@@ -1,8 +1,0 @@
-problem2/testEmptyBagOfWords.java
- problem2.testEmptyBagOfWords
-problem1/testEmptyPriorityQueue.java
- problem1.testEmptyPriorityQueue
-problem1/testNonEmptyPriorityQueue.java
- problem1.testNonEmptyPriorityQueue
-problem2/testNonEmptyBagOfWords.java
- problem2.testNonEmptyBagOfWords
